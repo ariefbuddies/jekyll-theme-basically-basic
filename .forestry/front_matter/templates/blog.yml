@@ -17,3 +17,5 @@ fields:
 - type: text
   name: entries_layout
   label: entries_layout
+pages:
+- _posts/first-post.md
