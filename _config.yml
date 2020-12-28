@@ -26,7 +26,7 @@ author:
 twitter_username: riefb79
 github_username: ariefbuddies
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: assets/images/johndoe.png # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
