@@ -7,7 +7,7 @@ image:
 layout: collection
 permalink: /recipes/
 collection: recipes
-entries_layout: recipes
+entries_layout: grid
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
