@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Situs KerenKu
+title: Braverie
 email: 
 description: My Awe Site
 baseurl: / # the optional subpath of your site, e.g. "/blog"
@@ -43,8 +43,8 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+# feed:
+#  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -83,3 +83,11 @@ defaults:
     values:
       layout: post
       read_time: true
+      # _posts
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: recipes
+      read_time: true
+
