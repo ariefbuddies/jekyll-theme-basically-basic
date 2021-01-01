@@ -83,11 +83,11 @@ defaults:
     values:
       layout: post
       read_time: true
-      # _posts
+  # _recipes
   - scope:
       path: "_recipes"
-      type: recipes
+      type: collection
     values:
-      layout: recipes
+      layout: page
       read_time: true
 
