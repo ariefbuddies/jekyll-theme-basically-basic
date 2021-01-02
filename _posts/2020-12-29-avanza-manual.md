@@ -1,8 +1,8 @@
 ---
 title: Avanza Manual
 layout: post
-collection: 'recipes'
 entries_layout: post
+tags: standart
 
 ---
 <div class="embed-responsive embed-responsive-16by9">
