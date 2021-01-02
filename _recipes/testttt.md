@@ -1,9 +1,9 @@
 ---
 title: testttt
-layout: collection
+layout: post
 permalink: "/recipes/"
 collection: recipes
-entries_layout: grid
+entries_layout: post
 
 ---
 tessssssss
