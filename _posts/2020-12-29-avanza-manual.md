@@ -1,7 +1,7 @@
 ---
 title: Avanza Manual
 layout: post
-collection: ''
+collection: 'recipes'
 entries_layout: post
 
 ---
