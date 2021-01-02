@@ -2,7 +2,7 @@
 title: Avanza Manual
 layout: post
 entries_layout: post
-tags: standart
+tags: standard
 
 ---
 <div class="embed-responsive embed-responsive-16by9">
